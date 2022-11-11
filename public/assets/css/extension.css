@@ -11,3 +11,8 @@
 .image:hover:before {
     opacity: 0;
 }
+
+#logo-php {
+    max-width: 100px;
+    height: auto;
+}
