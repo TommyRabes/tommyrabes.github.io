@@ -2,3 +2,12 @@
     width: auto;
     height: 100px;
 }
+
+.image:before {
+    opacity: 0.4;
+    transition: opacity 0.35s ease;
+}
+
+.image:hover:before {
+    opacity: 0;
+}
